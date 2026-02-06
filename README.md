@@ -1,6 +1,25 @@
-# NLP-Assignment-1
+# NLP Course Repository — 2026  
+**Innopolis University**
 
-In this assignment, you need to implement, train, and analyze a Byte-Pair Encoding (BPE) tokenizer.
+This repository contains coursework for the **Natural Language Processing (NLP)** course at **Innopolis University**, 2026.
 
-The assignment consist of 3 tasks. When you finish all the tasks, create a GitHub repository for this assignment (you can use this repository later for the other assignments) and submit this notebook in the repository. Leave `requirements.txt` file if your code requires additional installations. Submit the link to the repository in Moodle.
+## 📌 Purpose
+The repository is used for:
+- Completing practical and theoretical assignments  
+- Submitting homework and project work  
+- Tracking progress throughout the course  
 
+## 📂 Repository Structure
+The repository is organized by assignments and topics covered during the course.  
+Each folder includes:
+- Task descriptions (if applicable)  
+- Source code and notebooks  
+- Reports or experiment results  
+
+## 📅 Course Information
+- **Course:** Natural Language Processing  
+- **Year:** 2026  
+- **University:** Innopolis University  
+
+## 👤 Author
+Rodion Krainov, AI-01
